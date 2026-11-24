@@ -1,0 +1,1 @@
+- Template standar pelaporan _bug_ (Title, Environment, Severity, Priority, Steps to Reproduce, Expected vs Actual Result, dan Root Cause Hypothesis).
